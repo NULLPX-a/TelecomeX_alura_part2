@@ -115,5 +115,3 @@ Basado en los resultados del modelo, se recomiendan las siguientes acciones:
 Licencia: MIT
 
 ---
-
-> **Nota**: Este proyecto prioriza el **Recall** sobre la Accuracy general, alineándose con los objetivos de negocio de minimizar la pérdida de clientes.
